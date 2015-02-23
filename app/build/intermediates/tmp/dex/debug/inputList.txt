@@ -1,0 +1,2 @@
+/Users/mustafatopcu/Downloads/Bitirme_Proje4/app/build/intermediates/classes/debug
+/Users/mustafatopcu/Downloads/Bitirme_Proje4/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0-d9d3fcac9ea02602b68d76b43c9662724c1b3d58.jar
